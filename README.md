@@ -1,5 +1,5 @@
 # 💫 Hakkımda:
-🔭 Şu anda üzerinde çalışıyorum: SEO projeleri, dijital pazarlama stratejileri ve Next.js tabanlı blog geliştirme<br>👯 İş birliği yapmak istiyorum: Dijital pazarlama, SEO ve web geliştirme projeleri<br>🌱 Şu anda öğreniyorum: Next.js ve profesyonel blog geliştirme<br>💬 Bana sorabilirsin: SEO, dijital pazarlama, web geliştirme ve e-ticaret<br>⚡ Eğlenceli bir gerçek: Birden fazla sektörde girişimlerim var ve her gün yeni şeyler öğrenmeyi seviyorum!<br><br><br><br><br><br><br><br><br>
+🔭 Şu anda üzerinde çalışıyorum: SEO projeleri, dijital pazarlama stratejileri ve Next.js tabanlı blog geliştirme<br>👯 İş birliği yapmak istiyorum: Dijital pazarlama, SEO ve web geliştirme projeleri<br>🌱 Şu anda öğreniyorum: Next.js ve profesyonel blog geliştirme<br>💬 Bana sorabilirsin: SEO, dijital pazarlama, web geliştirme ve e-ticaret<br>⚡ Eğlenceli bir gerçek: Birden fazla sektörde girişimlerim var ve her gün yeni şeyler öğrenmeyi seviyorum!<br>
 
 
 ## 🌐 Sosyal Medya:
