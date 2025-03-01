@@ -1,5 +1,6 @@
 # 💫 Hakkımda:
-🔭 Şu anda üzerinde çalışıyorum: SEO projeleri, dijital pazarlama stratejileri ve Next.js tabanlı blog geliştirme<br>👯 İş birliği yapmak istiyorum: Dijital pazarlama, SEO ve web geliştirme projeleri<br>🌱 Şu anda öğreniyorum: Next.js ve profesyonel blog geliştirme<br>💬 Bana sorabilirsin: SEO, dijital pazarlama, web geliştirme ve e-ticaret<br>⚡ Eğlenceli bir gerçek: Birden fazla sektörde girişimlerim var ve her gün yeni şeyler öğrenmeyi seviyorum!<br>
+<strong>PHP, WordPress ve SEO uzmanıyım</strong>. Hedefim, kullanıcı dostu, yüksek performanslı ve SEO uyumlu çözümler üretmek..İşbirliği ve iletişimle özgün projeler geliştirip dijital vizyonunuzu gerçeğe dönüştürüyorum!<br>
+<strong>PHP</strong>, WordPress ve SEO alanlarında uzmanım. Hedefim, dijital projeler için etkileyici ve kullanıcı odaklı çözümler üretmek. Başarının işbirliği, açık iletişim ve müşterilerimin hedeflerine duyulan saygıyla başladığına inanıyorum.
 
 
 ## 🌐 Sosyal Medya:
